@@ -1,0 +1,12 @@
+[package]
+name = "mandlebrot"
+version = "0.1.0"
+authors = ["Clark Chambers <clarkchambers94@gmail.com>"]
+
+[dependencies]
+num = "0.1.27"
+image = "0.13.0"
+crossbeam = "0.2.8"
+num_cpus = "1.8.0"
+lerp = "0.2.0"
+clippy = { version = "*", optional = true }

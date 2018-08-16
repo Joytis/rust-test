@@ -1,0 +1,6 @@
+[package]
+name = "rusty-fun"
+version = "0.1.0"
+authors = ["Clark Chambers <clarkchambers94@gmail.com>"]
+
+[dependencies]

@@ -1,0 +1,27 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"cargo_build":
+		{
+			"paths":
+			{
+				"D:\\Programming\\Rust\\rusty-fun":
+				{
+					"variants":
+					{
+						"auto":
+						{
+							"target": "--bin rusty-fun"
+						}
+					}
+				}
+			}
+		}
+	}
+}
